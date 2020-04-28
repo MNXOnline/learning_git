@@ -1,6 +1,1 @@
-I am a git repo.
-And this is a test for -a flag on commit.
-This is a pull test.
-Now I'm trying a conflicting merge.
-This change should make a conflictive merge.
-Solved the issue by keeping both lines.
+Added docker-compose.yml
